@@ -25,7 +25,7 @@ This repository is about EDA performed on Marvel and DC Characters.
 * Among good, bad and neutral characters the maximum Total is of good character.
 * Among good, bad and neutral characters the maximum Intelligence is of bad character.
 
-# Skills  
+# Technologies Used
 * Python
 * Numpy
 * Pandas
