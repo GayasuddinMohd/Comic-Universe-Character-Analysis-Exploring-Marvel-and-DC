@@ -7,6 +7,21 @@ In this project, we perform exploratory data analysis on a dataset containing in
 This repository is about EDA performed on Marvel and DC Characters.
    - It has a python notebook where all the coding has been done.
    - It also has the relevant datasets and files used for this analysis.
+     
+# Technologies Used
+* Python
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* Jupyter Notebok
+* Kaggle
+* Statistics
+
+# Dataset
+* You can download the dataset from the kaggle website.
+* https://www.kaggle.com/datasets/dannielr/marvel-superheroes?select=charcters_stats.csv
 
 # Summary
 * Startdust is the most durable superhero.
@@ -24,18 +39,3 @@ This repository is about EDA performed on Marvel and DC Characters.
 * Most of the characters have the total between 1 and 10.
 * Among good, bad and neutral characters the maximum Total is of good character.
 * Among good, bad and neutral characters the maximum Intelligence is of bad character.
-
-# Technologies Used
-* Python
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Jupyter Notebok
-* Kaggle
-* Statistics
-
-# Dataset
-* You can download the dataset from the kaggle website.
-* https://www.kaggle.com/datasets/dannielr/marvel-superheroes?select=charcters_stats.csv
