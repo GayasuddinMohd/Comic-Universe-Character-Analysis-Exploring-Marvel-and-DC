@@ -24,3 +24,18 @@ This repository is about EDA performed on Marvel and DC Characters.
 * Most of the characters have the total between 1 and 10.
 * Among good, bad and neutral characters the maximum Total is of good character.
 * Among good, bad and neutral characters the maximum Intelligence is of bad character.
+
+# Skills  
+* Python
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* Jupyter Notebok
+* Kaggle
+* Statistics
+
+# Dataset
+* You can download the dataset from the kaggle website.
+* https://www.kaggle.com/datasets/dannielr/marvel-superheroes?select=charcters_stats.csv
