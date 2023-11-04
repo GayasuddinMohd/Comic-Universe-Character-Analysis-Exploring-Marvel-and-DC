@@ -1,4 +1,4 @@
-![Image Alt Text](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-Marvel-and-DC-Characters/blob/main/marvel-and-dc-image.jpg?raw=true)
+![Image Alt Text](https://images.thedirect.com/media/article_full/dcmarvel_WBAhVL3.jpg?imgeng=cmpr_75/)
 
 # ✿  Exploratory Data Analysis on Marvel and DC Characters  ✿
 In this project, we perform exploratory data analysis on a dataset containing information about characters from both the Marvel and DC universes. By analyzing the data and creating visualizations, we aim to gain insights into various character traits, affiliations, popularity trends, and more.
