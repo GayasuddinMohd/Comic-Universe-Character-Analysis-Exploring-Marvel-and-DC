@@ -6,7 +6,7 @@ In this project, we perform analysis on a data containing information about char
 # Skills
 * Python
   
-# ✿  Dataset  ✿
+# Dataset
 * Download the dataset from [Kaggle](https://www.kaggle.com/datasets/dannielr/marvel-superheroes?select=charcters_stats.csv).
 
 # Insights
