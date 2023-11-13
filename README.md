@@ -1,29 +1,15 @@
 ![Image Alt Text](https://images.thedirect.com/media/article_full/dcmarvel_WBAhVL3.jpg?imgeng=cmpr_75/)
 
-# ✿  Exploratory Data Analysis on Marvel and DC Characters  ✿
-In this project, we perform exploratory data analysis on a dataset containing information about characters from both the Marvel and DC universes. By analyzing the data and creating visualizations, we aim to gain insights into various character traits, affiliations, popularity trends, and more.
-
-# ✿  Repository Overview  ✿
-This repository is about EDA performed on Marvel and DC Characters.
-   - It has a python notebook where all the coding has been done.
-   - It also has the relevant datasets and files used for this analysis.
-     
-# ✿  Technologies Used  ✿
+# Comic Universe Character Analysis : Exploring Marvel and DC
+In this project, we perform analysis on a data containing information about characters from both the Marvel and DC universes. By analyzing the data and creating visualizations, we aim to gain insights into various character traits, affiliations, popularity trends, and more.
+    
+# Skills
 * Python
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Jupyter Notebok
-* Kaggle
-* Statistics
-
+  
 # ✿  Dataset  ✿
-* You can download the dataset from the kaggle website.
-* https://www.kaggle.com/datasets/dannielr/marvel-superheroes?select=charcters_stats.csv
+* Download the dataset from [Kaggle](https://www.kaggle.com/datasets/dannielr/marvel-superheroes?select=charcters_stats.csv).
 
-# ✿  Summary  ✿
+# Insights
 * Startdust is the most durable superhero.
 * Ares has the highest combat among superhero.
 * Martain Mahunter is the best superhero.
